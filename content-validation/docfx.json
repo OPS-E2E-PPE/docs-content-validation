@@ -47,7 +47,7 @@
     "fileMetadata": 
     {
       "ms.author":{
-        "/content-validation/**/*.md": "amlstudiodocs"
+        "/content-validation/Headings/**.md": "amlstudiodocs"
       }
     },
     "template": [],
