@@ -10,7 +10,6 @@ metadata:
   ms.service: container-service
   ms.topic: landing-page
   ms.date: 07-21-2017
-  ms.author: gwallace
 abstract:
   description: 'Azure Kubernetes Service (AKS) manages your hosted Kubernetes environment, making it quick and easy to deploy and manage containerized applications without container orchestration expertise. It also eliminates the burden of ongoing operations and maintenance by provisioning, upgrading, and scaling resources on demand, without taking your applications offline.'
 sections:
@@ -48,5 +47,3 @@ sections:
       href: ../dev-spaces/quickstart-netcore-visualstudio.md
     - image: 
         src: https://docs.microsoft.com/media/logos/logo_nodejs.svg
-      text: Node.js
-      href: ../dev-spaces/quickstart-nodejs.md
