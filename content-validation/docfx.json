@@ -47,7 +47,7 @@
     "fileMetadata": 
     {
       "ms.author":{
-        "Headings/*.md": "abc"
+        "fileMetadata/*.md": "abc"
       }
     },
     "template": [],
