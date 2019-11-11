@@ -1,6 +1,6 @@
 ---
 title: I am MD hubpage
-layout: Hubpage
+layout: hubpage
 ---
 
 # I am h1 heading 1
