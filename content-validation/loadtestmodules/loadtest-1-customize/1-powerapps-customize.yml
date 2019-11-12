@@ -7,3 +7,4 @@ metadata:
 durationInMinutes: 10 
 content: | 
   [!include[](includes/1-powerapps-customize.md)]
+  [!include[](./../../includes/free-trial-note2.md)] 

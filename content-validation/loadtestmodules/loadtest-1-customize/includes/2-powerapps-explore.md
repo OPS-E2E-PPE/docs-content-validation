@@ -14,8 +14,6 @@ Here are just a few of the controls that can add interest and impact to your app
 - **Media**: These controls let you add background images and include a camera button (so that users can take pictures from the app) and a barcode reader for quickly capturing identification information.
 - **Charts**: These controls let you add charts so that users can do instant analysis while they're on the road.
 
-[ [!include[](../includes/2-test-include.md)] ]
-
 To see what's available, select the **Insert** tab, and then select each option in turn.
 
 ## Explore the browse screen

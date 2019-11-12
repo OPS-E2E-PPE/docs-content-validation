@@ -8,8 +8,9 @@ In the previous unit, we explored controls in all three screens of an app that P
 By default, the price appears as a plain number without a currency symbol. But suppose that we want to add a dollar sign and change the text color based on the item's cost (for example, red if it's more than $5 but green otherwise). This graphic shows the expected result.
 
 ![Text formatting for color and currency](../media/conditional-format.png)
-
+ [!include[](./../../../includes/free-trial-note2.md)] 
 Let's start with the currency formatting. By default, PowerApps just pulls in a price value for each item. This value is set as the **Text** property of the label that shows the price.
+
 
 1. In **BrowseScreen1**, select the price of the first item.
 
