@@ -5,8 +5,7 @@ metadata:
   title: Customize an app and validate
   description: Create a test app and validate creation
 durationInMinutes: 10
-content: 
-Create a test app on Azure
+content: Create a test app on Azure
 tasks:
 - action: exists
   environment: azure
