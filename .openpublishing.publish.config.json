@@ -1,27 +1,20 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "learn-test-sandbox",
-      "build_source_folder": "learn-test-sandbox",
-      "build_output_subfolder": "learn-test-sandbox",
+      "docset_name": "content-validation",
+      "build_source_folder": "content-validation",
+      "build_output_subfolder": "content-validation",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
-        "Achievements": "Toc",
-        "LearningPath": "Content",
-        "Module": "Content",
-        "ModuleUnit": "Content"
+        "Conceptual": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes",
-      "customized_tasks": {
-        "docset_postbuild": [
-            "_dependentPackages/CommonPlugins/tools/TripleCrownValidation.ps1"
-        ]
+      "template_folder": "_themes"
     }
-    }
+    
   ],
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
