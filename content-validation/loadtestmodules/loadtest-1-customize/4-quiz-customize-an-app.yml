@@ -36,7 +36,6 @@ quiz:
       isCorrect: true
   - content: 
    Which screen opens by default in apps that PowerApps generates? 
-   [!include[](./../../includes/free-trial-note.md)] 
     choices:
     - content: Preview pane
       explanation: The Run button does start your app so that you can preview it, but the Preview pane isn't a main screen.

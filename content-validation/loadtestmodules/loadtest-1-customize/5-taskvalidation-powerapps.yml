@@ -7,7 +7,6 @@ metadata:
 durationInMinutes: 10
 content: 
 Create a test app on Azure
-[!include[](/content-validation/includes/free-trial-note3.md)] 
 tasks:
 - action: exists
   environment: azure
