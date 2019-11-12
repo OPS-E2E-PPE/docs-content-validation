@@ -1,0 +1,22 @@
+### YamlMime:LearningPath
+uid: content-validation.fallback
+title: fallbacktesting-Create an app in PowerApps
+summary: fallbacktesting - This learning path introduces you to PowerApps, helps you create and customize an app, and then manage and distribute it. 
+cardDescription: Create, customize and share an app 
+iconUrl: http://via.placeholder.com/120x120
+levels:
+- beginner
+roles:
+- business-user
+products:
+- m365
+prerequisites: This learning path assumes that you're familiar with OneDrive, SharePoint, and Excel. 
+metadata:
+  title: Create an app in PowerApps
+  description: This learning path introduces you to PowerApps, helps you create and customize an app, and then manage and distribute it.
+modules:
+- content-validation.fallback-module
+- content-validation.fallback-only-in-us
+- content-validation.fallback-badge
+trophy:
+  uid: content-validation.fallback.trophy 

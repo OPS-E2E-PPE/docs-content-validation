@@ -1,0 +1,26 @@
+### YamlMime:Module 
+uid: content-validation.test-orphan-module
+metadata: 
+  title: Test Orphan Module Changed Again
+  description: Learn how to customize an app by adding controls, images, and logic.
+  ms.date: 09/24/2018
+  ROBOTS: NOINDEX
+title: Test Orphan Module
+summary: Learn how to customize an app by adding controls, images, and logic.
+abstract: |
+  In this module, you will:
+  - Change the layout of a gallery.
+cardDescription: Learn how to customize an app by adding controls, images, and logic.
+iconUrl: http://via.placeholder.com/120x120 
+levels:  
+- beginner 
+roles:  
+- business-user 
+products:
+- dynamics-field-service
+- common-data-service
+- flow
+units: 
+- content-validation.test-orphan-module.unit-1
+badge: 
+  uid: content-validation.orphan-module.badge  

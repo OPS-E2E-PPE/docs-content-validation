@@ -1,0 +1,35 @@
+### YamlMime:Module 
+uid: content-validation.fallback-module.browsetest
+metadata: 
+  title: BrowseTest - Customize an app
+  description: BrowseTest - Learn how to customize an app by adding controls, images, and logic.
+  ms.date: 05/24/2019
+title: BrowseTest - Customize an app
+summary: BrowseTest - Learn how to customize an app by adding controls, images, and logic.
+abstract: |
+  In this module, you will:
+  - Change the layout of a gallery.
+  - Change the data that a control shows.
+  - Change the order in which fields appear.
+  - Change the control with which a user provides information.
+  - Explore controls on each screen of an app.
+  - Format a number as a price.
+  - Color prices based on their values.
+  - Explore formulas in a generated app.
+cardDescription: BrowseTest - updatemodule-Learn how to customize an app by adding controls, images, and logic.
+iconUrl: http://via.placeholder.com/120x120 
+levels:  
+- intermediate 
+roles:  
+- business-user 
+- functional-consultant
+products:  
+- m365
+units: 
+- content-validation.fallback.handback-already.browsetest
+- content-validation.fallback.only-in-us.browsetest
+- content-validation.fallback.updated-in-us.browsetest
+- content-validation.fallback.quizunit.browsetest
+- content-validation.fallback.taskvalidation-unit.browsetest
+badge: 
+  uid: content-validation.browsetest.badge

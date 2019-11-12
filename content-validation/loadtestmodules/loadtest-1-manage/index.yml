@@ -1,0 +1,34 @@
+### YamlMime:Module
+uid: content-validation.loadtest-1-manage 
+title: Manage apps in PowerApps
+summary: Manage app versions, app sharing, and environments in PowerApps. 
+cardDescription: Manage app versions, app sharing, and environments in PowerApps. 
+iconUrl: http://via.placeholder.com/120x120
+levels: 
+- beginner
+roles: 
+- business-user
+products: 
+- m365
+metadata: 
+  title: Manage apps in PowerApps
+  description: Manage app versions, app sharing, and environments in PowerApps.
+  ms.date: 09/24/2018
+abstract: |
+  In this module, you will: 
+  - Learn how to review and restore app versions.
+  - Explore how to share an app, including permissions and notification.
+  - Understand what environments are, how to create them, and how to manage security.
+  - Find more information about PowerApps.
+prerequisites: None
+units: 
+- content-validation.loadtest-1-manage.1-powerapps-versions
+- content-validation.loadtest-1-manage.2-powerapps-share
+- content-validation.loadtest-1-manage.3-powerapps-environments
+- content-validation.loadtest-1-manage.4-review-powerapps
+- content-validation.loadtest-1-manage.5-quiz-manage-apps
+- content-validation.loadtest-1-manage.6-taskvalidation-manage-apps
+- content-validation.loadtest-1-manage.7-taskvalidation-2-manage-apps
+- content-validation.loadtest-1-manage.8-taskvalidation-3-manage-apps
+badge: 
+  uid: content-validation.loadtest-1-manage.badge
