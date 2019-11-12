@@ -11,6 +11,7 @@ In this unit, we'll walk you through some basic changes for each screen in the a
 I am test link in local [link in local](https://azure.microsoft.com/en-us/free/)
 I am test link not secure [secure](http://azure.microsoft.com/free/)
 I am test link not secure but has locals [secure](http://azure.microsoft.com/en-us/free/)
+I am non-microsoft link [I am google](https://www.google.com/en-us/)
 
 ## Browse screen
 We'll start on the browse screen. The app already shows an image and some text for each product, but the layout could be better. Let's work on that.

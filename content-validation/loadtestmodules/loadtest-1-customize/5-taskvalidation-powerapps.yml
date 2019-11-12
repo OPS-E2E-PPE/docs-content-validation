@@ -5,7 +5,9 @@ metadata:
   title: Customize an app and validate
   description: Create a test app and validate creation
 durationInMinutes: 10
-content: Create a test app on Azure
+content: 
+Create a test app on Azure
+[!include[](/content-validation/includes/free-trial-note3.md)] 
 tasks:
 - action: exists
   environment: azure
