@@ -1,4 +1,4 @@
 
 
 # Testing for pagetypes
-[!include[](includes/FileUnderIncludes.md)]
+[!include[test](includes/FileUnderIncludes.md)]
