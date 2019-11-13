@@ -1,5 +1,5 @@
 ---
-ms.prod: abc
+ms.prod: .net
 ---
 
 I am content in include
