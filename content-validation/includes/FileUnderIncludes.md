@@ -5,4 +5,6 @@ I am a file under includes
 [link in local](https://azure.microsoft.com/en-us/free/)
 [link not secure](http://azure.microsoft.com/free/)
 [link not secure](http://azure.microsoft.com/en-us/free/)
+[link in locale](http://azure.microsoft.com/nonlocale/free/)
+[link in locale](http://azure.microsoft.com/fr-fr/free/)
 # I am the third H1
