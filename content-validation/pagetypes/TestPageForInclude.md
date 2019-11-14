@@ -1,3 +1,6 @@
+---
+author: author
+---
 
 # I am test page for include file
 
