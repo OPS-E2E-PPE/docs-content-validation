@@ -48,13 +48,13 @@
     {
       "ms.author":{
         "fileMetadata/*.md": "abc"
+      },
+      "monikerRange":{
+        "Headings/*.md": "tfs-2015 || tfs-2017 || azure-devops || >= tfs-2017 <= tfs-2018"
       }
     },
     "template": [],
     "dest": "content-validation",
-    "markdownEngineName": "markdig",
-    "monikerRange":{
-      "Headings/*.md": "= tfs-2015 || = tfs-2017 || = azure-devops || >= tfs-2017 <= tfs-2018"
-    }
+    "markdownEngineName": "markdig"
   }
 }
