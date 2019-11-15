@@ -23,11 +23,11 @@ sections:
     style: icon48
     items:
     - image:
-        src: https://docs.microsoft.com/media/common/i_cligeneric.svg
+        src: https://docs.microsoft.com/en-us/media/common/i_cligeneric.svg
       text: Azure CLI
       href: /azure/aks/kubernetes-walkthrough
     - image:
-        src: https://docs.microsoft.com/media/common/i_portal.svg
+        src: http://docs.microsoft.com/media/common/i_portal.svg
       text: Azure Portal
       href: /azure/aks/kubernetes-walkthrough-portal
   - type: paragraph
@@ -38,11 +38,11 @@ sections:
     - image: 
         src: https://docs.microsoft.com/media/logos/logo_java.svg
       text: Java
-      href: ../dev-spaces/quickstart-java.md
+      href: https://azure.microsoft.com/en-us/free/
     - image: 
         src: https://docs.microsoft.com/media/logos/logo_NETcore.svg
       text: .NET and VS Code
-      href: ../dev-spaces/quickstart-netcore.md
+      href: http://azure.microsoft.com/free/
     - image: 
         src: https://docs.microsoft.com/media/logos/logo_visual-studio.svg
       text: .NET and Visual Studio
