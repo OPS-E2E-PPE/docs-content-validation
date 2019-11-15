@@ -2,6 +2,7 @@
   "build": {
     "content": [
       {
+        "group": "tfs",
         "files": [
           "**/*.md",
           "**/*.yml"
@@ -48,13 +49,16 @@
     {
       "ms.author":{
         "fileMetadata/*.md": "abc"
-      },
-      "monikerRange":{
-        "Headings/*.md": "tfs-2015 || tfs-2017 || azure-devops || >= tfs-2017 <= tfs-2018"
       }
     },
     "template": [],
     "dest": "content-validation",
-    "markdownEngineName": "markdig"
+    "markdownEngineName": "markdig",
+    "groups": {
+      "tfs": {
+        "moniker_range": "tfs-2015 || tfs-2017 || azure-devops || >= tfs-2017 <= tfs-2018",
+        "dest": "temp2015"
+      }
+    }
   }
 }
