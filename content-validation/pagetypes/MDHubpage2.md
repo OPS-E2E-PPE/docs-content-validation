@@ -3,8 +3,7 @@ title: I am MD hubpage
 layout: Hubpage
 ---
 
-# I am h1 heading 1
-# I am h1 heading 2
+# I am MD hubpage
 
 
 [Docs main page https](https://docs.microsoft.com/en-us/)
