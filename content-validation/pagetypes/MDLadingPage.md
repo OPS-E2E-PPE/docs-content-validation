@@ -2,7 +2,4 @@
 layout: LandingPage
 ---
 
-## I am H2 in landing page 
-
-[Docs main page https](https://docs.microsoft.com/en-us/)
-
+# I am MD landing page
