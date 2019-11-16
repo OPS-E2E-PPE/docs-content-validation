@@ -1,6 +1,11 @@
 ---
+author: abc
+ms.author: amlstudiodocs
+ms.date: 1/1/2019
+ms.prod: .net
 title: I am MD hubpage
-layout: Hubpage
+layout: hubpage
+
 ---
 
 # I am MD hubpage
