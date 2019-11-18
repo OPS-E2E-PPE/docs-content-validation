@@ -1,6 +1,6 @@
 ---
 ms.prod: analytics-platform-system
-ms.technology: 
+ms.technology: abcd
 ---
 
 # I am file in include 
