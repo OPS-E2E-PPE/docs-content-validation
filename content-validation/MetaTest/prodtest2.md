@@ -1,4 +1,4 @@
 ---
-ms.prod:  .net
+ms.prod: .net
 ms.technology: csharp-interactive
 ---
