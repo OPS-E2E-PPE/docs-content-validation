@@ -1,4 +1,4 @@
 ---
-ms.prod:  .net
-ms.technology:  csharp-interactive
+ms.prod: .net
+ms.technology: devlang-cpp
 ---
