@@ -1,6 +1,5 @@
 ---
 layout: LandingPage
-author: abc
 ms.author: amlstudiodocs
 ms.date: 1/1/2019
 ms.prod: .net
