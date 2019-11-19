@@ -1,5 +1,5 @@
 ---
-layout: landingPage
+layout: LANDINGPAGE
 ---
 
 ## I am H2 in landing page 
