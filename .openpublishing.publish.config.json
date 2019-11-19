@@ -15,6 +15,7 @@
       "template_folder": "_themes"
     }
   ],
+  "v3_package_version": "3.0.0-prod-201911150402",
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
