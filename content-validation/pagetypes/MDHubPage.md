@@ -1,5 +1,7 @@
 ---
 layout: Hubpage
+ms.prod: .net
+ms.service: asc-for-iot
 ---
 
 # MD hubpage
