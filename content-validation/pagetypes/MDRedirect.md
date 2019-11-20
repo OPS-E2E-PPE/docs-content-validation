@@ -1,9 +1,6 @@
 ---
-layout: LandingPage
+layout: landingPage
 redirect_utl: http://docs.microsoft.com/en-us/
-ms.author: amlstudiodocs
-ms.date: 1/1/2019
-ms.prod: .net
 ---
 
 ## I am H2 in redirect landing page

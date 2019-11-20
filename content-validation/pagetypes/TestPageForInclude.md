@@ -4,5 +4,5 @@ author: author
 
 # I am test page for include file
 
-## Testing for pagetypes
+# Testing for pagetypes
 [!include[test](../includes/FileUnderIncludes.md)]

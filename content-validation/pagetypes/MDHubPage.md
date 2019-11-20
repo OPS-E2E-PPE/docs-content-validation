@@ -1,5 +1,4 @@
 ---
-title: I am MD hubpage
 layout: Hubpage
 ---
 
