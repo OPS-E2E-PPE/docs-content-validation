@@ -1,6 +1,6 @@
 ---
 redirect_url: https://docs.microsoft.com/en-us/
-layout: Hubpage
+layout: hubpage
 ---
 
 # I am H1 recirect conceptual page

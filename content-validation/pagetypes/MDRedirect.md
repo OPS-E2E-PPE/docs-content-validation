@@ -1,5 +1,5 @@
 ---
-layout: landingPage
+layout: landingpage
 redirect_utl: http://docs.microsoft.com/en-us/
 ---
 
