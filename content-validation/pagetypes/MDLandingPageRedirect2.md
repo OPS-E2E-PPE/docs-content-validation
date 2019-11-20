@@ -1,6 +1,6 @@
 ---
-layout: landingPage
-redirect_utl: http://docs.microsoft.com/en-us/
+layout: landingpage
+redirect_url: http://docs.microsoft.com/en-us/
 ---
 
 ## I am H2 in redirect landing page
