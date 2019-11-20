@@ -1,7 +1,6 @@
 ---
-ms.prod: analytics-platform-system
-author: abc
+ms.prod: abc
 ---
 
-# I am file in include 
+# I am test file
 I am test 123
