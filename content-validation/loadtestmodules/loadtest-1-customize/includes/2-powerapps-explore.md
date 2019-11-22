@@ -4,8 +4,9 @@ We're now going to look more closely at the screens and other controls that defi
 A control is just a UI element that produces an action or shows information. Many of the controls in PowerApps are just like controls that you've used in other apps: labels, text-input boxes, drop-down lists, navigation elements, and so on.
 
 In addition to these typical controls, PowerApps has more specialized controls, which you can find on the **Insert** tab.
-[securit link and local inside](http://docs.microsodt.com/en-us/)
+[securit link and local inside](http://docs.microsoft.com/en-us/)
 ![Insert ribbon for PowerApps Studio](../media/powerapps-ribbon-controls.png)
+ [!include[](./../../../includes/free-trial-note2.md)] 
 Here are just a few of the controls that can add interest and impact to your apps:
 
 - **Galleries**: These controls are layout containers that hold a set of controls that show data from a data source.
