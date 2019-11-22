@@ -54,7 +54,7 @@ On the details screen, we want to change the order of the fields. The controls o
     ![Move fields on the details screen](../media/powerapps-move-fields.png)
 
 ## Edit/create screen
-
+[securit link and local inside](http://docs.microsodt.com/en-us/)
 Finally, on the screen where your user edits and creates entries, we want to make it easier to enter information in a text box.
 
 1. On the **Screens** pane on the left, select **EditForm1**.
