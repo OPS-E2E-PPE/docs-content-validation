@@ -6,4 +6,4 @@ metadata:
   description: Get started with default functions in apps that PowerApps generates.
 durationInMinutes: 15 
 content: | 
-  [!include[](includes/3-powerapps-functions.md)]  
+  test
