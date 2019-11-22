@@ -5,6 +5,7 @@ A control is just a UI element that produces an action or shows information. Man
 
 In addition to these typical controls, PowerApps has more specialized controls, which you can find on the **Insert** tab.
 [securit link and local inside](http://docs.microsoft.com/en-us/)
+[securit link and local inside](http://docs.microsoft.com/en-us/)
 ![Insert ribbon for PowerApps Studio](../media/powerapps-ribbon-controls.png)
 Here are just a few of the controls that can add interest and impact to your apps:
 
