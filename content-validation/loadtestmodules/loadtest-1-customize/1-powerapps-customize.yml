@@ -7,5 +7,6 @@ metadata:
   description: Make basic customizations to your apps, such as choosing a layout and reordering fields. 
 durationInMinutes: 10 
 content: | 
-  test
+  [!include[](includes/1-powerapps-customize.md)]
+  [!include[](includes/2-powerapps-explore.md)]
  
