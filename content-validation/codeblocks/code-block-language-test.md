@@ -44,3 +44,21 @@ public void test()
     Console.WriteLine("Hello World");
 }
 ```
+
+## Code language with tag "csharp"
+
+```csharp
+public void test()
+{
+    Console.WriteLine("Hello World");
+}
+```
+
+## Code language with display name "C#"
+
+```C#
+public void test()
+{
+    Console.WriteLine("Hello World");
+}
+```
