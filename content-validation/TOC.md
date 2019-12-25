@@ -1,6 +1,6 @@
 # [Index](index.md)
 ## Folder1
-### [file1](Folder1/File1.md)
+### [file1](TOCTest/Folder1/File1)
 ## Folder2
 ### [file1](Folder2/File2.md)
 ### [file1](Folder2/File22.md)
