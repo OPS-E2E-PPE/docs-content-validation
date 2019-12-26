@@ -1,7 +1,5 @@
 ---
-author: 
-- abc
-- 123
+author: abc
 ---
 
 # I am h1
