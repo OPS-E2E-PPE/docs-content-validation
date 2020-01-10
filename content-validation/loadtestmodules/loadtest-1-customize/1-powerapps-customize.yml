@@ -9,4 +9,4 @@ durationInMinutes: 10
 content: | 
   [!include[](includes/1-powerapps-customize.md)]
   [!include[](includes/2-powerapps-explore.md)]
- 
+I am test link in local [link in local](https://azure.microsoft.com/en-us/free/)
