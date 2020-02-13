@@ -11,6 +11,12 @@ public void test(){
 }
 ```
 
+```csharp
+public void test(){
+    console.write("test");
+}
+```
+
 ```
 missing code language
 ```
