@@ -11,7 +11,11 @@ I am code block by triple-backticks
     I am
     Code block by indentation
 
-I am paragraph
+
+```csharp
+I am code block
+```
+
     ```
     I am code block by triple-backticks and Indented 
     ```
