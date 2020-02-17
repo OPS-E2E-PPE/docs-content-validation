@@ -1,4 +1,4 @@
-# Testing for pagetypes： include
+# Testing for pagetypes：include
 [!include[test](../includes/FileUnderIncludesUnderPageType.md)]
 
  I am test file for includes
