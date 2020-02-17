@@ -1,13 +1,35 @@
 ---
 title: I am MD hubpage
-layout: hubpage
+layout: Hubpage
 ---
 
-# I am h1 heading 1
-# I am h1 heading 2
+# I am hubpage
+
+## syntax
+
+I am pragraph 'I am code' with code.
+
+```
+I am code block by triple-backticks
+```
+
+    I am
+    Code block by indentation
 
 
-[Docs main page https](https://docs.microsoft.com/en-us/)
-[Docs main page http](https://docs.microsoft.com/en-us/)
-[go to MDHubpage with local](/en-us/content-validation/pagestypes/MDHubPage.md)
-[go to MDHubpage without local](MDHubPage.md)
+## code language
+
+```
+I do not have code language
+```
+
+```c
+Code language case sesensitive: c
+```
+
+```C
+Code language case sesensitive: C
+```
+
+```csharp
+I am code but not closed

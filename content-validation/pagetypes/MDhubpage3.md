@@ -1,9 +1,9 @@
 ---
 title: I am MD hubpage
-layout: HubPage
+layout: hubpage
 ---
 
-# I am Hubpage
+# I am hubpage
 
 ## syntax
 
