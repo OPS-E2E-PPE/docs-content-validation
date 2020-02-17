@@ -11,7 +11,10 @@ I am code block by triple-backticks
     I am
     Code block by indentation
 
-
+I am paragraph
+    ```
+    I am code block by triple-backticks and Indented 
+    ```
 
 ## code language
 
