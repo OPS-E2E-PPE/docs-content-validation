@@ -23,6 +23,7 @@
     ],
     "resource": [
       {
+        "group": "tfs",
         "files": [
           "**/*.png",
           "**/*.jpg"
