@@ -4,6 +4,8 @@
 
 I am pragraph 'I am code' with code.
 
+I am paragraph ```I am code``` with code
+
 ```
 I am code block by triple-backticks
 ```
