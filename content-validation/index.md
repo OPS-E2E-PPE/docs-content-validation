@@ -32,3 +32,11 @@ Description: i am description
 <p class="alert-title"><span class="docon docon-status-info-outline" aria-hidden="true"></span> Important</p>
 <p>It is very strongly recommended to use Az CLI version 2.0.74 or later to get all the benefits of a quick restore including managed disk restore. It is best if user always uses the latest version.</p>
 </div>
+
+<table><tr><td>
+<pre>
+**Hello**,
+
+_world_.
+</pre>
+</td></tr></table>
