@@ -2,7 +2,7 @@
     "redirections": [
         {
             "source_path": "content-validation/pagetypes/MDRedirect3.md",
-            "redirect_url": "https://docs.microsoft.com/zh-cn/",
+            "redirect_url": "content-validation/pagetypes/Normal",
             "redirect_document_id": false
         }
     ]
