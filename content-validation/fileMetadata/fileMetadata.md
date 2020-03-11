@@ -1,5 +1,6 @@
 ---
 ms.prod: analytics-platform-system
+ms.prod: analytics-platform-system
 ms.technology: abcd
 ---
 
