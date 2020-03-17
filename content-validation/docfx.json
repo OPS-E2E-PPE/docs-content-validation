@@ -42,7 +42,8 @@
       "breadcrumb_path": "/content-validation/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "None",
-      "author": "test"
+      "author": "test",
+      "title": "I am title"
     },
     "fileMetadata": 
     {
