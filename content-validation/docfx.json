@@ -43,7 +43,8 @@
       "extendBreadcrumb": true,
       "feedback_system": "None",
       "author": "test",
-      "title": "I am title"
+      "title": "I am title",
+      "ms.prod": ".net"
     },
     "fileMetadata": 
     {
