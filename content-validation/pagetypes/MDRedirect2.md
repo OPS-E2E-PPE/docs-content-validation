@@ -1,6 +1,5 @@
 ---
 layout: HubPage
-redirect_url: http://docs.microsoft.com/en-us/
 ---
 
 # I am HubPage (redirect)
