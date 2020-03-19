@@ -1,4 +1,3 @@
 ---
-ms.prod: .net
-ms.technology: devlang-cpp
+ms.prod: .net22
 ---
