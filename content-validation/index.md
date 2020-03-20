@@ -1,6 +1,6 @@
 ---
 title: I am title
-Description: I am description
+description: I am description
 ---
 
 # Welcome to content-validation!
