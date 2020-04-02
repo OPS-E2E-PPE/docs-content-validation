@@ -7,4 +7,3 @@ ms.prod: .net
 I am second  H1 heading using '='
 ========
 
-## Prediction time
