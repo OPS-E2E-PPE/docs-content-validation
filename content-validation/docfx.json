@@ -9,6 +9,45 @@
         "exclude": [
           "**/obj/**",
           "**/includes/**",
+          "**/docfx.json"
+        ],
+        "src": "ImageAltText/Uniqueness",
+        "dest": "."
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "**/docfx.json"
+        ],
+        "src": "PublishUrl/MaxLevel",
+        "dest": "."
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "**/docfx.json"
+        ],
+        "src": "PublishUrl/SegmentUniqueness",
+        "dest": "."
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
           "_themes/**",
           "_themes.pdf/**",
           "**/docfx.json",
@@ -17,7 +56,9 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices.md"
-        ]
+        ],
+        "src": ".",
+        "dest": "."
       }
     ],
     "resource": [
