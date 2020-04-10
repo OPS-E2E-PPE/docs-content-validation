@@ -33,16 +33,16 @@ alt = "test alt text" /><div>
 <img src = "./images/pig11.jpg" />
 <img alt = "" src = "./images/pig12.jpg" />
 
-### 2.3 Multiple source (Use first source)
-<img alt="test alt text 2" src="./images/pig.jpg"/>
-<img src="./images/piga.jpg" src="./images/pig13.jpg" alt="test alt text  2" />
-
 ### 2.4 Unique alt text
 <img alt = "unique alt text" src = "./images/pig14.jpg"/>
 
+## 3. Bug
+### 3.1 Multiple source (Use first source)
+<img alt="test alt text 2" src="./images/pig.jpg"/>
+<img src="./images/pig.jpg" src="./images/pig13.jpg" alt="test alt text  2" />
 --------------------------------------------------
 Result: 
     "test alt text": 6
     "test alt text 1": 2
-    "test alt text 2": 0
+    *"test alt text 2": 2 -> 0
 

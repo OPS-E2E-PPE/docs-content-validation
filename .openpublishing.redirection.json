@@ -1,0 +1,29 @@
+{
+    "redirections": [
+      {
+        "source_path": "content-validation/PublishUrl/MaxLevel/Test1 Level3/redirectionsrc.md",
+        "redirect_url": "/content-validation/Test3 Level5/folder1/folder2/redirectiondest",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "content-validation/PublishUrl/MaxLevel/Test1 Level3/deleted.md",
+        "redirect_url": "/content-validation/Test3 Level5/folder1/folder2/redirectiondest",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "content-validation/PublishUrl/MaxLevel/Test3 Level5/folder1/folder2/redirectionsrc.md",
+        "redirect_url": "/content-validation/Test1 Level3/redirectiondest",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "content-validation/PublishUrl/MaxLevel/Test3 Level5/folder1/folder2/deleted.md",
+        "redirect_url": "/content-validation/Test1 Level3/redirectiondest",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "content-validation/PublishUrl/SegmentUniqueness/Test9 ExcludeSitutation/DuplicateWord/DuplicateWord/redirectionsrc.md",
+        "redirect_url": "/content-validation/Test9 ExcludeSitutation/DuplicateWord/DuplicateWord/redirectiondest",
+        "redirect_document_id": false
+      }
+    ]
+}

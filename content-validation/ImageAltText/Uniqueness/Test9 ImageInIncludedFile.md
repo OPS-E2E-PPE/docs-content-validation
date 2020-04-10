@@ -6,9 +6,16 @@
 ![test alt text 1](./images/pig1.jpg)
 ![test alt text 1](./images/pig2.jpg)
 
-### 1.2 [Now not support] Same alt text in included page
+## 2. Follow the rule
+
+## 3. Bug
+### 3.1 [Now not support] Same alt text in included page
 ![included alt text 1](./images/pig3.jpg)
 
-## 2. Follow the rule
-### 2.1 [Now not support] Same alt text and same source in included page
+### 3.2 [Now not support] Same alt text and same source in included page
 ![included alt text 2](./images/pig.jpg)
+
+--------------------------------------------------
+Result: 
+    "test alt text 1": 2
+    *"included alt text 1": 1 -> 0

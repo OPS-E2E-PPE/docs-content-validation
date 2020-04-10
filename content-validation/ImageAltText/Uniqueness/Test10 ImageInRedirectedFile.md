@@ -9,10 +9,10 @@ redirect_url: "test redirect"
 This file has been redirected to another. (Only work in yaml header. 
 Do not consider the openpublishing.redirection.json case)
 
-![redirected alt text 1](./images/pig.jpg)
-![redirected alt text 1](./images/pig.jpg)
+![redirected alt text](./images/pig1.jpg)
+![redirected alt text](./images/pig2.jpg)
 
 
 --------------------------------------------------
 Result: 
-    "redirected alt text 1": 0
+    "redirected alt text": 0

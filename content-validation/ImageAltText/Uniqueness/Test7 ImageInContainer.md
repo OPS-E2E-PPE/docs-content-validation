@@ -8,7 +8,7 @@
 ### <img src = "./images/pig2.jpg" alt = "test alt text" />
 
 ### 1.3 Image in list
-- <img src = "./images/pig3.jpg" alt = "test alt text" />
+- <img src = "./images/pig11.jpg" alt = "test alt text" />
 - ![test alt text](./images/pig4.jpg)
 
 ### 1.4 Image in table
@@ -17,5 +17,9 @@
 | ![test alt text](./images/pig5.jpg)                    | x | 
 | <img src = "./images/pig6.jpg" alt = "test alt text" />| x | 
 
+## 2. Follow the rule
 
+--------------------------------------------------
+Result: 
+    "test alt text": 6
 
