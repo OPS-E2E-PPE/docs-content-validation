@@ -1,0 +1,3 @@
+---
+titleSuffix: test title suffix
+---

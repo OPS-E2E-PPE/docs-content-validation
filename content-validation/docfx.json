@@ -82,9 +82,18 @@
     "globalMetadata": {
       "breadcrumb_path": "/content-validation/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "Description": "Test description Test description Test description Test description Test description Test description Test description"
     },
-    "fileMetadata": {},
+    "fileMetadata": 
+    {
+      "titleSuffix": {
+        "Description/**/*.md": "test suffix",
+        "ImageAltText/**/*.md": "test suffix",
+        "PublishUrl/**/*.md": "test suffix",
+        "TitleSuffix/Test2 TitleSuffixInConfiguration.md": "test suffix"
+      }
+    },
     "template": [],
     "dest": "content-validation",
     "markdownEngineName": "markdig"
