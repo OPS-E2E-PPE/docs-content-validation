@@ -83,7 +83,7 @@
       "breadcrumb_path": "/content-validation/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "None",
-      "Description": "Test description Test description Test description Test description Test description Test description Test description"
+      "description": "Test description Test description Test description Test description Test description Test description Test description"
     },
     "fileMetadata": 
     {

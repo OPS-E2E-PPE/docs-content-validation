@@ -1,3 +1,3 @@
 ---
-descirption: aaaaaaa
+description: aaaaaaa
 ---
