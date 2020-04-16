@@ -21,8 +21,13 @@
         "redirect_document_id": false
       },
       {
-        "source_path": "content-validation/PublishUrl/SegmentUniqueness/Test9 ExcludeSitutation/DuplicateWord/DuplicateWord/redirectionsrc.md",
-        "redirect_url": "/content-validation/Test9 ExcludeSitutation/DuplicateWord/DuplicateWord/redirectiondest",
+        "source_path": "content-validation/PublishUrl/SegmentUniqueness/Test8 ExcludeSitutation/DuplicateWord/DuplicateWord/redirectionsrc.md",
+        "redirect_url": "/content-validation/Test8 ExcludeSitutation/DuplicateWord/DuplicateWord/redirectiondest",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "content-validation/PublishUrl/SegmentUniqueness/Test8 ExcludeSitutation/DuplicateWord/DuplicateWord/deleted.md",
+        "redirect_url": "/content-validation/Test8 ExcludeSitutation/DuplicateWord/DuplicateWord/redirectiondest",
         "redirect_document_id": false
       }
     ]
