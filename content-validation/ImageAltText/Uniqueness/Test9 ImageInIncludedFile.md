@@ -1,6 +1,7 @@
 # [Test case 9] Images in included file - Image Alt Text Duplicated
 
-[!include[included file](./includes/included_file.md)]
+abc [!include[included file](./includes/included_file.md)]
+# def [!include[included file](./includes/included_file.md)]
 ## 1. Against the rule
 ### 1.1 Same alt text in same page
 ![test alt text 1](./images/pig1.jpg)
