@@ -2,6 +2,8 @@
 
 abc [!include[included file](./includes/included_file.md)]
 # h1-before [!include[included file](./includes/included_title.md)] h1-back
+
+abc [!include[included file](./includes/included_title.md)]
 ## 1. Against the rule
 ### 1.1 Same alt text in same page
 ![test alt text 1](./images/pig1.jpg)
