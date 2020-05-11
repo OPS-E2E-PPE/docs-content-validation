@@ -22,3 +22,4 @@ abc [!include[included file](./includes/included_title.md)]
 Result: 
     "test alt text 1": 2
     *"included alt text 1": 1 -> 0
+[!include[included file](./includes/included_title.md)]
