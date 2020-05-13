@@ -19,9 +19,15 @@ code language missing
 ```
 :::image-end:::
 
+## Invalid link in triple colon
+:::image type="complex" source="../media/buttonElementWithRenderers.png" alt-text="Diagram of button element with platform renderers.":::
+http://docs.microsoft.com/en-us/test?view=test 
+:::image-end:::
+
 ## Unclosed code block in triplecolon
 :::image type="complex" source="../media/buttonElementWithRenderers.png" alt-text="Diagram of button element with platform renderers.":::
 ```C#
 code language missing
 :::image-end:::
+
 
