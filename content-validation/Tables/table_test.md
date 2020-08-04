@@ -1,6 +1,7 @@
 # This is table test file
 
 ## table validation
+The results are similar to the following values:
 
 | Property Name | Value |
 |----|----|
@@ -16,6 +17,11 @@
 | **StorageEndpointSuffix** | `core.cloudapi.de` |
 | ... | ... |
 To retrieve just the storage endpoint suffix property, retrieve the specific cloud and ask for just that one property.
+
+```powershell
+$environment = Get-AzEnvironment -Name AzureGermanCloud
+Write-Host "Storage EndPoint Suffix = " $environment.StorageEndpointSuffix
+```
 
 
 ## table validation 2
