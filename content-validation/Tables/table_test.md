@@ -1,6 +1,6 @@
 # This is table test file
 
-## table validation update
+## table validation
 The results are similar to the following values:
 
 | Property Name | Value |
@@ -16,7 +16,6 @@ The results are similar to the following values:
 | SqlDatabaseDnsSuffix | `.database.cloudapi.de` |
 | **StorageEndpointSuffix** | `core.cloudapi.de` |
 | ... | ... |
-
 To retrieve just the storage endpoint suffix property, retrieve the specific cloud and ask for just that one property.
 
 ```powershell
