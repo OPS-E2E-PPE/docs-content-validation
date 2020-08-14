@@ -1,8 +1,7 @@
 # Table column header is included
 
-|Action|[!INCLUDE[ssCurrent](./includes/FileUnderIncludes.md)]|[!INCLUDE[ssKilimanjaro](./includes/FileUnderIncludes.md)]|  
-|------------|-----------------------------|---------------------------------|  
-|Move to the [!INCLUDE[ssManStudioFull](./includes/ssmanstudiofull-md.md)] menu bar|ALT|ALT|  
+|Action|[!INCLUDE[ssCurrent](../includes/FileUnderIncludes.md)]|[!INCLUDE[ssKilimanjaro](../includes/FileUnderIncludes.md)]|  
+|------------|-----------------------------|---------------------------------|
 |Activate the menu for a tool component|ALT+HYPHEN|ALT+HYPHEN|  
 |Display the context menu|SHIFT+F10|SHIFT+F10|  
 |Display the **New File** dialog box to create a file|CTRL+N|CTRL+N|  
@@ -14,9 +13,8 @@
 |Display the Query Designer|CTRL+SHIFT+Q|CTRL+SHIFT+Q|  
 |Close a menu or dialog box, canceling the action|ESC|ESC| 
 
-|Action|[!INCLUDE[](./includes/FileUnderIncludes.md)]|[!INCLUDE[](./includes/FileUnderIncludes.md)]|  
-|------------|-----------------------------|---------------------------------|  
-|Move to the [!INCLUDE[ssManStudioFull](./includes/ssmanstudiofull-md.md)] menu bar|ALT|ALT|  
+|Action|[!INCLUDE[](../includes/FileUnderIncludes.md)]|[!INCLUDE[](../includes/FileUnderIncludes.md)]|  
+|------------|-----------------------------|---------------------------------| 
 |Activate the menu for a tool component|ALT+HYPHEN|ALT+HYPHEN|  
 |Display the context menu|SHIFT+F10|SHIFT+F10|  
 |Display the **New File** dialog box to create a file|CTRL+N|CTRL+N|  
