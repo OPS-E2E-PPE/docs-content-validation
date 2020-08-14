@@ -26,7 +26,7 @@
 |Display the Query Designer|CTRL+SHIFT+Q|CTRL+SHIFT+Q|  
 |Close a menu or dialog box, canceling the action|ESC|ESC| 
 
-|Action|[!INCLUDE[test1]()]|[!INCLUDE[test2](../includes/FileUnderIncludes.md)]|  
+|Action|[!INCLUDE[test1](../includes/emptyfile.md)]|[!INCLUDE[test2](../includes/FileUnderIncludes.md)]|  
 |------------|-----------------------------|---------------------------------| 
 |Activate the menu for a tool component|ALT+HYPHEN|ALT+HYPHEN|  
 |Display the context menu|SHIFT+F10|SHIFT+F10|  
