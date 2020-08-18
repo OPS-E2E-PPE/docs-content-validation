@@ -1,5 +1,7 @@
 # Table column header is included
 
+## Header contains included file
+
 |Action|[!INCLUDE[ssCurrent](../includes/FileUnderIncludes.md)]|[!INCLUDE[ssKilimanjaro](../includes/FileUnderIncludes.md)]|  
 |------------|-----------------------------|---------------------------------|
 |Activate the menu for a tool component|ALT+HYPHEN|ALT+HYPHEN|  
@@ -12,6 +14,8 @@
 |Display the **Add Existing Item** dialog box to add an existing file to the current project|SHIFT+ALT+A|SHIFT+ALT+A|  
 |Display the Query Designer|CTRL+SHIFT+Q|CTRL+SHIFT+Q|  
 |Close a menu or dialog box, canceling the action|ESC|ESC| 
+
+## Header included file title is empty "[!INCLUDE[](../includes/FileUnderIncludes.md)]"
 
 |Action|[!INCLUDE[](../includes/FileUnderIncludes.md)]|[!INCLUDE[](../includes/FileUnderIncludes.md)]|  
 |------------|-----------------------------|---------------------------------| 
@@ -26,7 +30,9 @@
 |Display the Query Designer|CTRL+SHIFT+Q|CTRL+SHIFT+Q|  
 |Close a menu or dialog box, canceling the action|ESC|ESC| 
 
-|Action|[!INCLUDE[test1](../includes/emptyfile.md)]|[!INCLUDE[test2](../includes/FileUnderIncludes.md)]|  
+## Header contains empty included file
+
+|Action|[!INCLUDE[test1](../includes/emptyfile.md)]|[!INCLUDE[test2](../includes/emptyfile.md)]|  
 |------------|-----------------------------|---------------------------------| 
 |Activate the menu for a tool component|ALT+HYPHEN|ALT+HYPHEN|  
 |Display the context menu|SHIFT+F10|SHIFT+F10|  
