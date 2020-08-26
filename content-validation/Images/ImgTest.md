@@ -9,4 +9,7 @@
 
 ### test image
 
+   I am code
+
+
    :::image type="content" source="../img/cat.jpg" alt-text="test alt text":::
