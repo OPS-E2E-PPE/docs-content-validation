@@ -9,4 +9,4 @@
 
 ### test image
 
-:::image type="content" source="../img/cat.jpg" alt-text="test alt text":::
+   :::image type="content" source="../img/cat.jpg" alt-text="test alt text":::
