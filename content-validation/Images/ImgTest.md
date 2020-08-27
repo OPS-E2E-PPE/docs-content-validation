@@ -13,3 +13,7 @@
 
 
     :::image type="content" source="../img/cat.jpg" alt-text="test alt text":::
+    
+### Indented image
+
+    :::image type="content" source="../img/cat.jpg" alt-text="test alt text":::
