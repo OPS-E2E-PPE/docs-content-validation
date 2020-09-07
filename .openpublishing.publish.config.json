@@ -6,10 +6,20 @@
       "build_output_subfolder": "content-validation",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": ["tfs-2015 || tfs-2017 || azure-devops || >= tfs-2017 <= tfs-2018", "sql-server-2014"],
       "open_to_public_contributors": true,
       "type_mapping": {
-        "Conceptual": "Content"
+        "APIConnector": "Content",
+        "RestApi": "Content",
+        "LandingData": "Content",
+        "UniversalReference": "Content",
+        "ManagedReference": "Content",
+        "Conceptual": "Content",
+        "NetEnum": "Content",
+        "NetDelegate": "Content",
+        "NetNamespace": "Content",
+        "NetMember": "Content",
+        "NetType": "Content",
+        "ReferenceContainer": "Content"
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"
