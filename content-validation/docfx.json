@@ -52,6 +52,7 @@
     },
     "template": [],
     "dest": "content-validation",
-    "markdownEngineName": "markdig"
+    "markdownEngineName": "markdig",
+    "docs_build_engine": { "name": "docfx_v2" }
   }
 }
