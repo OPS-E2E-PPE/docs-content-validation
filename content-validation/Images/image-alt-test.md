@@ -9,6 +9,19 @@
 ![The **Azure Explorer** window. The user is swapping the web app in the version 2 deployment slot with the production slot xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](../img/cat.jpg)
 
 ![The **Azure Explorer** window. The user is swapping the web app in the version 2 deployment slot with the production slot xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](../img/dog.jpg)
+
+![The **Azure Explorer** window. <br /> The user is swapping the web app in the version 2 deployment slot with the production slot ](../img/dog.jpg)
+
+![The **Azure Explorer** window. \\r\\n The user is swapping the web app in the version 2 deployment slot with the production slot ](../img/dog.jpg)
+
+![The **Azure Explorer** window. \r\n The user is swapping the web app in the version 2 deployment slot with the production slot ](../img/dog.jpg)
+
+![The **Azure Explorer** window. \r The user is swapping the web app in the version 2 deployment slot with the production slot ](../img/dog.jpg)
+
+![The **Azure Explorer** window. 
+The user is swapping the web app in the version 2 deployment slot with the production slot ](../img/dog.jpg)
+
+
 ### image alt without bold formatting)
 ![](../img/cat.jpg)
 
