@@ -1,6 +1,4 @@
 # [Index](index.md)
-# Alert
-## [AlertTestFile](Alert/alert-test-file.md)
 # fileMetadata
 ## [fileMetadata](fileMetadata/fileMetadata.md)
 # Headings
@@ -10,6 +8,7 @@
 ## [H1Moniker1](headings/H1InMoniker.md)
 # images
 ## [imgtest](Images/ImgTest.md)
+## [altTestFile](Images/image-alt-test.md)
 # Links
 ## [HardCodedLocaleInLink](Links/HardCodedLocaleInLink.md)
 ## [InsecureLInk](Links/InsecureLInk.md)
