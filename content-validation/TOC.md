@@ -1,17 +1,6 @@
 # [Index](index.md)
 # fileMetadata
 ## [fileMetadata](fileMetadata/fileMetadata.md)
-# Headings
-## [H1missing](headings/H1Missing.md)
-## [H1Multiples](headings/H1Missing.md) 
-## [h1motfirst](http://docs.microsoft.com/en-us)
-## [H1Moniker1](headings/H1InMoniker.md)
 # images
 ## [imgtest](Images/ImgTest.md)
 ## [altTestFile](Images/image-alt-test.md)
-# Links
-## [HardCodedLocaleInLink](Links/HardCodedLocaleInLink.md)
-## [InsecureLInk](Links/InsecureLInk.md)
-## [Telephone](Links/Telephone.md)
-# Table
-## [TableTest](Tables/table_test.md)
