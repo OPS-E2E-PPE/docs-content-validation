@@ -13,7 +13,7 @@
 
 ### image link break md with <br> \r\n inside
 
-![The **Azure Explorer** window. <br /> The user is swapping the web app in the version 2 deployment slot with the production slot ](../img/dog1.jpg)
+![The **Azure Explorer** window. <br /> The user is swapping the web app in the version 2 deployment slot with the production slot  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](../img/dog1.jpg)
 
 ![The **Azure Explorer** window. \\r\\n The user is swapping the web app in the version 2 deployment slot with the production slot xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](../img/dog1.jpg)
 
