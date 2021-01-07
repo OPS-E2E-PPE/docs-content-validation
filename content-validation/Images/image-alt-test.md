@@ -11,7 +11,7 @@
 ![The **Azure Explorer** window. The user is swapping the web app in the version 2 deployment slot with the production slot xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](../img/dog.jpg)
 
 
-### image link break md with <br> \r\n inside
+### image link break md with ```<br> \r\n``` inside
 
 ![The **Azure Explorer** window. <br /> The user is swapping the web app in the version 2 deployment slot with the production slot  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](../img/dog1.jpg)
 
@@ -23,7 +23,7 @@
 
 ![The **Azure Explorer** window. \n The user is swapping the web app in the version 2 deployment slot with the production slot xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](../img/dog1.jpg)
 
-### image link break <img>
+### image link break with html tag ```<img>```
 <img src="../img/dog1.jpg" alt="The **Azure Explorer** window. \r\n The user is swapping the web app in the version 2 deployment slot with the production slot xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx">
 
 ### image link break
