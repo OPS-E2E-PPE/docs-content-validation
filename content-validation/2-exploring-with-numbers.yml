@@ -1,4 +1,5 @@
-﻿﻿### YamlMime:ModuleUnit 
+﻿### YamlMime:ModuleUnit
+uid: learn-bizapps.analyze-explore-data-power-bi.2-exploring-with-numbers
 title: View your data
 metadata: 
   title: View your data
@@ -6,10 +7,10 @@ metadata:
   ms.date: 04/26/2019 
   author: HeyRob
   ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-bi 
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-bi
    
-durationInMinutes: 5 
+durationInMinutes: 5
 content: |
   [!include[](includes/2-exploring-with-numbers.md)] 
 
