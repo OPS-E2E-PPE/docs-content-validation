@@ -28,3 +28,6 @@ The four types of filters are:
 -   **Page** – Applies to all the visuals on the current report page.
 -   **Visual** – Applies to a single visual on a report page. You only see visual level filters if you've selected a visual on the report canvas.
 -   **Drillthrough** – Allows you to explore successively more detailed views within a single visual.
+
+![cat](../img/cat.jpg)
+![cat](../img/dog.jpg)
